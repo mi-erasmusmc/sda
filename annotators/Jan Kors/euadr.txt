@@ -1,0 +1,45 @@
+
+1: Conforti A, Chiamulera C, Moretti U, Colcera S, Fumagalli G, Leone R.
+Musculoskeletal adverse drug reactions: a review of literature and data from ADR 
+spontaneous reporting databases. Curr Drug Saf. 2007 Jan;2(1):47-63. Review.
+PubMed PMID: 18690950.
+
+2: Kasturi KS, Mummadi RR, Sood GK. Neutropenic enterocolitis: An unusual
+complication of HCV combination therapy with PEG-IFN and ribavirin. Eur J Intern 
+Med. 2008 Jul;19(5):372-3. Epub 2007 Nov 26. PubMed PMID: 18549944.
+
+3: LoVecchio F, Nourani C, Watts DJ, Wallance KL, Wax PM. Acute renal failure,
+neuropathy, and myopathy after ingestion of dipropylene glycol fog solution. Am J
+Emerg Med. 2008 Jun;26(5):635.e1-2. PubMed PMID: 18534313.
+
+4: Doboszyńska A, Rozek M, Swietlik E, Tomaszewska I. Heparin-induced
+thrombocytopenia in a patient with lung embolism and left-sided pneumonia: a case
+report. J Physiol Pharmacol. 2007 Nov;58 Suppl 5(Pt 1):135-9. PubMed PMID:
+18204124.
+
+5: Hippisley-Cox J, Coupland C, Logan R. Risk of adverse gastrointestinal
+outcomes in patients taking cyclo-oxygenase-2 inhibitors or conventional
+non-steroidal anti-inflammatory drugs: population based nested case-control
+analysis. BMJ. 2005 Dec 3;331(7528):1310-6. PubMed PMID: 16322018; PubMed Central
+PMCID: PMC1298853.
+
+6: Abdalla SA, Cymerman U, Rushlow D, Chen N, Stoeber GP, Lemire EG, Letarte M.
+Novel mutations and polymorphisms in genes causing hereditary hemorrhagic
+telangiectasia. Hum Mutat. 2005 Mar;25(3):320-1. PubMed PMID: 15712271.
+
+7: Dial EJ, Dohrman AJ, Romero JJ, Lichtenberger LM. Recombinant human
+lactoferrin prevents NSAID-induced intestinal bleeding in rodents. J Pharm
+Pharmacol. 2005 Jan;57(1):93-9. PubMed PMID: 15651117.
+
+8: Takeuchi K, Tanaka A, Hayashi Y, Kubo Y. Functional mechanism underlying COX-2
+expression following administration of indomethacin in rat stomachs: importance
+of gastric hypermotility. Dig Dis Sci. 2004 Feb;49(2):180-7. PubMed PMID:
+15104355.
+
+9: Fiorucci S, Antonelli E, Morelli A. Mechanism of non-steroidal
+anti-inflammatory drug-gastropathy. Dig Liver Dis. 2001 Dec;33 Suppl 2:S35-43.
+Review. PubMed PMID: 11827361.
+
+10: Lusher JM. Clinical guidelines for treating von Willebrand disease patients
+who are not candidates for DDAVP--a survey of European physicians. Haemophilia.
+1998;4 Suppl 3:11-4. PubMed PMID: 10028313.

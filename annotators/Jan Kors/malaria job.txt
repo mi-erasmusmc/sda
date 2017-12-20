@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head><body><pre>1: Friedman R, Caflisch A. Discovery of Plasmepsin Inhibitors by Fragment-Based
+Docking and Consensus Scoring. ChemMedChem. 2009 May 26. [Epub ahead of print]
+PubMed PMID: 19472268.
+
+2: Crowther GJ, Napuli AJ, Thomas AP, Chung DJ, Kovzun KV, Leibly DJ, Castaneda
+LJ, Bhandari J, Damman CJ, Hui R, Hol WG, Buckner FS, Verlinde CL, Zhang Z, Fan
+E, Van Voorhis WC. Buffer Optimization of Thermal Melt Assays of Plasmodium
+Proteins for Detection of Small-Molecule Ligands. J Biomol Screen. 2009 May 21.
+[Epub ahead of print] PubMed PMID: 19470714.
+
+3: Xie LH, Li Q, Zhang J, Weina PJ. Pharmacokinetics, tissue distribution and
+mass balance of radiolabeled dihydroartemisinin in male rats. Malar J. 2009 May
+26;8(1):112. [Epub ahead of print] PubMed PMID: 19470172.
+
+4: Faucher JF, Aubouy A, Adeothy A, Cottrell G, Doritchamou J, Gourmel B, Houzé
+P, Kossou H, Amedome H, Massougbodji A, Cot M, Deloron P. Comparison of
+Sulfadoxine-Pyrimethamine, Unsupervised Artemether-Lumefantrine, and Unsupervised
+Artesunate-Amodiaquine Fixed-Dose Formulation for Uncomplicated Plasmodium
+falciparum Malaria in Benin: A Randomized Effectiveness Noninferiority Trial. J
+Infect Dis. 2009 May 26. [Epub ahead of print] PubMed PMID: 19469703.
+
+5: Mannan AA, Malik EM, Ali KM. Antimalarial prescribing and dispensing practices
+in health centres of Khartoum state, 2003-04. East Mediterr Health J. 2009
+Jan-Feb;15(1):122-8. PubMed PMID: 19469434.
+
+6: Boggild AK, Page AV, Keystone JS, Morris AM, Liles WC. Delay in diagnosis:
+malaria in a returning traveller. CMAJ. 2009 May 26;180(11):1129-31. PubMed PMID:
+19468122.
+
+7: Ndyomugyenyi R, Tukesiga E, Katamanywa J. Intermittent preventive treatment of
+malaria in pregnancy (IPTp): participation of community-directed distributors of 
+ivermectin for onchocerciasis improves IPTp access in Ugandan rural communities. 
+Trans R Soc Trop Med Hyg. 2009 May 19. [Epub ahead of print] PubMed PMID:
+19467686.
+
+8: Kawai S, Sugiyama M. Imaging analysis of the brain in a primate model of
+cerebral malaria. Acta Trop. 2009 May 22. [Epub ahead of print] PubMed PMID:
+19467218.
+
+9: Rowe JA, Claessens A, Corrigan RA, Arman M. Adhesion of Plasmodium
+falciparum-infected erythrocytes to human cells: molecular mechanisms and
+therapeutic implications. Expert Rev Mol Med. 2009 May 26;11:e16. PubMed PMID:
+19467172.
+
+10: Kantamreddi VS, Parida S, Kommula SM, Wright CW. Phytotherapy used in orissa 
+state, india for treating malaria. Phytother Res. 2009 May 22. [Epub ahead of
+print] PubMed PMID: 19466695.
+
+11: Jallow M, Teo YY, Small KS, Rockett KA, Deloukas P, Clark TG, Kivinen K,
+Bojang KA, Conway DJ, Pinder M, Sirugo G, Sisay-Joof F, Usen S, Auburn S,
+Bumpstead SJ, Campino S, Coffey A, Dunham A, Fry AE, Green A, Gwilliam R, Hunt
+SE, Inouye M, Jeffreys AE, Mendy A, Palotie A, Potter S, Ragoussis J, Rogers J,
+Rowlands K, Somaskantharajah E, Whittaker P, Widden C, Donnelly P, Howie B,
+Marchini J, Morris A, Sanjoaquin M, Achidi EA, Agbenyega T, Allen A, Amodu O,
+Corran P, Djimde A, Dolo A, Doumbo OK, Drakeley C, Dunstan S, Evans J, Farrar J, 
+Fernando D, Hien TT, Horstmann RD, Ibrahim M, Karunaweera N, Kokwaro G, Koram KA,
+Lemnge M, Makani J, Marsh K, Michon P, Modiano D, Molyneux ME, Mueller I, Parker 
+M, Peshu N, Plowe CV, Puijalon O, Reeder J, Reyburn H, Riley EM, Sakuntabhai A,
+Singhasivanon P, Sirima S, Tall A, Taylor TE, Thera M, Troye-Blomberg M, Williams
+TN, Wilson M, Kwiatkowski DP; Wellcome Trust Case Control Consortium; Malaria
+Genomic Epidemiology Network. Genome-wide and fine-resolution association
+analysis of malaria in West Africa. Nat Genet. 2009 May 24. [Epub ahead of print]
+PubMed PMID: 19465909.
+
+12: Van Geertruyden JP, Colebunders R, Dʼalessandro U. HIV-1-Infected Individuals
+Traveling to Malaria Endemic Areas. J Acquir Immune Defic Syndr. 2009
+Jun;51(2):234-235. PubMed PMID: 19465828.
+
+13: Bello SO. Pre-referral artesunate in severe malaria. Lancet. 2009 May
+23;373(9677):1762-3; author reply 1763. PubMed PMID: 19465228.
+
+14: Andriantsoanirina V, Lascombes V, Ratsimbasoa A, Bouchier C, Hoffman J,
+Tichit M, Rabarijaona LP, Durand R, Ménard D. Rapid detection of point mutations 
+in Plasmodium falciparum genes associated with antimalarial drugs resistance by
+using high-resolution melting analysis. J Microbiol Methods. 2009 May 21. [Epub
+ahead of print] PubMed PMID: 19465064.
+
+15: Rayavara K, Rajapandi T, Wollenberg K, Kabat J, Fischer ER, Desai SA. A
+complex of three related membrane proteins is conserved on malarial merozoites.
+Mol Biochem Parasitol. 2009 May 21. [Epub ahead of print] PubMed PMID: 19465059.
+
+16: Dudareva M, Andrews L, Gilbert SC, Bejon P, Marsh K, Mwacharo J, Kai O,
+Nicosia A, Hill AV. Prevalence of serum neutralizing antibodies against
+chimpanzee adenovirus 63 and human adenovirus 5 in Kenyan Children, in the
+context of vaccine vector efficacy. Vaccine. 2009 Jun 2;27(27):3501-4. Epub 2009 
+Apr 16. PubMed PMID: 19464527.
+
+17: Tun T, Tint HS, Lin K, Kyaw TT, Myint MK, Khaing W, Tun ZW. Efficacy of oral 
+single dose therapy with artemisinin-naphthoquine phosphate in uncomplicated
+falciparum malaria. Acta Trop. 2009 May 20. [Epub ahead of print] PubMed PMID:
+19464245.
+
+18: Muhle RA, Adjalley S, Falkard B, Nkrumah LJ, Muhle ME, Fidock DA. A var gene 
+promoter implicated in severe malaria nucleates silencing and is regulated by 3' 
+untranslated region and intronic cis-elements. Int J Parasitol. 2009 May 19.
+[Epub ahead of print] PubMed PMID: 19463825.
+
+19: Kerah-Hinzoumbe C, Mallaye P, Antonio-Nkondjio C, Donan-Gouni I, Awono-Ambene
+P, Same-Ekobo A, Simard F. Malaria vectors and transmission dynamics in Goulmoun,
+a rural city in south-western Chad. BMC Infect Dis. 2009 May 23;9(1):71. [Epub
+ahead of print] PubMed PMID: 19463189.
+
+20: Millet JP, Garcia de Olalla P, Gascon J, Gomez I Prat J, Trevino B, Pinazo
+MJ, Cabezos J, Munoz J, Zarzuela F, Cayla JA. Imported malaria among African
+immigrants: is there still a relationship between developed countries and their
+ex-colonies? Malar J. 2009 May 22;8(1):111. [Epub ahead of print] PubMed PMID:
+19463171.
+</pre></body></html>

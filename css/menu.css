@@ -1,0 +1,432 @@
+/* menu & search css */
+
+#hintbox{ /*CSS for pop up hint box */
+	position:absolute;
+	top: 0;
+	background-color: lightyellow;
+	width: 150px; /*Default width of hint.*/ 
+	padding: 3px;
+	border:1px solid black;
+	font:normal 11px Verdana;
+	line-height:18px;
+	z-index:100;
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;
+	visibility: hidden;
+}
+
+#wikifier-menu-container {
+	font-family: arial;
+	font-size:12px;
+	text-align:left;
+	position:absolute;
+    width: 230px;
+    display: none;
+	left: 692px; 
+	top: 35px;
+    background-color: #fff;
+}
+
+#wikifier-infobox-container {
+	font-family: arial;
+	font-size:12px;
+	text-align:left;
+	position:absolute;
+    display: none;
+	left: 100px; 
+	top: 100px;
+    background-color: #fff;
+    z-index: 90;
+}
+
+#wikifier-search-container {
+	font-family: arial;
+	font-size:12px;
+	text-align:left;
+	position:absolute;
+    width: 400px;
+    display: none;
+}
+
+.wikifier-container {
+    font-family: arial;
+    font-size:12px;
+    text-align:left;
+    position:absolute;
+    display: none;
+    background-color: #fff;
+}
+
+.wikifier-contents {
+    font-family: arial;
+    font-size:12px;
+    margin: 1px;
+    background-color: #eff8f4;
+}
+
+.wikifier-content {
+    font-family: arial;
+    font-size: 10px;
+    padding: 1px;
+    color: #3c514e;
+    border: solid 1px #aac4c2;
+}
+
+#wikifier-authors-container {
+    width: 230px;
+}
+
+#wikifier-menu-contents {
+	font-family: arial;
+    font-size:12px;
+	margin: 1px;
+    background-color: #eff8f4;
+}
+
+#wikifier-infobox-contents {
+	font-family: arial;
+    font-size:12px;
+	margin: 9px;
+    background-color: #eff8f4;
+	//border: solid 1px #abadb3;
+	width: 500px;
+}
+
+#wikifier-sources {
+	font-family:arial;
+	font-size: 11px;
+	height:20px;
+	border: solid 1px #abadb3;
+	padding:2px;
+}
+
+#wikifier-search-contents {
+	font-family: arial;
+    font-size:12px;
+	margin: 9px;
+    background-color: #eff8f4;
+}
+
+.wikifier-button-menu {
+	font-family: arial;
+    font-size:12px;
+	color: #3c514e;
+    height: 19px;
+    padding: 2px 0 0 2px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    background-color: #dcf2ed;
+    //background: url('../img/wikifier-bg-button-menu.gif');
+}
+
+.wikifier-button-menu:hover {
+	font-family: arial;
+	font-size:12px;
+	background: url('../img/wikifier-bg-button-menu-hover.gif');
+    cursor: pointer;
+}
+
+.wikifier-button-splash {
+	font-family: arial;
+    font-size:12px;
+	color: red;
+    height: 19px;
+    border: 0;
+    border-bottom: 0;
+    text-decoration: none;
+}
+
+.wikifier-button-splash:hover {
+	font-family: arial;
+	font-size:12px;
+    cursor: pointer;
+	text-decoration:underline;
+}
+
+.wikifier-button-menu-bottom {
+ 	font-family: arial;
+    font-size:12px;
+ 	color: #3c514e;
+    height: 19px;
+    padding: 2px 0 0 2px;
+    border: solid 1px #aac4c2;
+    //background: url('../img/wikifier-bg-button-menu.gif');
+    background-color: #dcf2ed;
+}
+
+.wikifier-button-infobox-bottom {
+ 	font-family: arial;
+    font-size:12px;
+ 	color: #3c514e;
+    height: 19px;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    background-color: #dcf2ed;
+}
+
+.wikifier-button-menu-bottom:hover {
+	font-family: arial;
+	background: url('../img/wikifier-bg-button-menu-hover.gif');
+    cursor: pointer;
+}
+
+.wikifier-button-menu-top {
+ 	font-family: arial;
+ 	color: #3c514e;
+    height: 19px;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    background-color: #eff8f4;
+    overflow:hidden;
+}
+
+.wikifier-button-menu-ad {
+ 	font-family: arial;
+ 	color: #3c514e;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    background-color: #eff8f4;
+    overflow:hidden;
+}
+
+.wikifier-ad-href {
+ 	font-family: arial;
+    font-size:10px;
+ 	color: #3c514e;
+    color: blue;
+}
+
+.wikifier-button-infobox-top {
+ 	font-family: arial;
+ 	color: #3c514e;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    background-color: #eff8f4;
+    overflow:hidden;
+}
+
+.wikifier-button-infobox-middle {
+ 	font-family: arial;
+ 	color: #3c514e;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    border-top: 0;
+    background-color: #eff8f4;
+    overflow:hidden;
+}
+
+#wikifier-query-menu-bottom {
+	font-family: arial;
+    font-size:12px;
+	color: #3c514e;
+    height: 30px;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-top:0;
+}
+
+#wikifier-search-query {
+	font-family: arial;
+	font-size: 12px;
+    color: #00a896;
+    margin-left:7px;
+    font-weight:bold;
+}
+
+#wikifier-search-query:hover {
+	font-family: arial;
+	text-decoration:underline;
+    cursor: pointer;
+}
+
+#wikifier-header-querylist {
+	font-family: arial;
+	color: #3c514e;
+    font-size:12px;
+    height: 19px;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    background-color: #e2f2ee;
+}
+
+#wikifier-querylist {
+	font-family:arial;
+    font-size:12px;
+	font-weight:bold;
+}
+
+#wikifier-book-menu {  
+	font-family: arial;  
+	font-size:10px;  
+	padding:10px;  
+	color: #3c514e;  
+	border: solid 1px #aac4c2;  
+	//background-color: #D6F7EF;  
+}  
+
+.wikifier-query-menu {
+	font-family: arial;
+}
+
+#wikifier-text-book {  
+	font-family: arial;  
+	font-size:10px;  
+	width: 172px;  
+	//background-color: #D6F7EF;  
+}  
+
+.wikifier-button-menu-text {
+	font-family: arial;
+	font-size:12px;
+	display:inline;
+    vertical-align:middle;
+}
+
+.wikifier-check-menu-text {
+	font-family: arial;
+	font-size:10px;
+	display:inline;
+    vertical-align:middle;
+}
+
+.wikifier-button-menu-bottom:hover {
+	font-family: arial;
+    font-size:12px;
+	background-color: #ebf6f4;
+}
+
+#wikifier-border-bottom {
+	font-family: arial;
+    font-size:12px;
+	border: solid 1px #aac4c2;
+}
+
+
+#wikifier-definition-menu {
+	font-family: arial;
+    font-size:10px;
+	padding:10px;
+    color: #3c514e;
+    border: solid 1px #aac4c2;
+}
+
+#wikifier-query-menu {
+	font-family: arial;
+    font-size:12px;
+	padding:10px;
+    color: #3c514e;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+}
+
+#wikifier-definition-menu h4 {
+    font-family: arial;
+    font-size:11px;
+    text-align:left;
+    font-weight:normal;
+    margin:0;
+    padding:0;
+}
+
+
+#wikifier-text-definition {
+	font-family: arial;
+	font-size:11px;
+    width: 172px;
+}
+
+#wikifier-text-information {
+	font-family: arial;
+	font-size:12px;
+}
+
+.wikifier-text-information-class {
+	font-family: arial;
+	font-size:12px;
+    margin:0;
+    padding:0;
+}
+
+#wikifier-edit-definition {
+	cursor:pointer;
+	float:right;
+	font-family:arial;
+	font-size:11px;
+	text-decoration:underline;
+	color: #309c91;
+}
+
+#wikifier-more-definition {
+	cursor:pointer;
+	font-family:arial;
+	font-size:11px;
+	text-decoration:underline;
+	color: #309c91;
+}
+#wikifier-clear-button {
+	font-family:arial;
+	font-size:9px;	
+	float:right;
+	font-weight:normal;
+	color: #709E97;
+	margin-right:3px;
+	cursor:pointer;
+}
+
+.wikifier-icon {
+	font-family: arial;
+	font-size:12px;
+	margin-right:5px;
+    float:left;
+}
+
+.wikifier-closemenu {
+	float:right;
+	cursor:pointer;
+}
+
+.wikifier-closesplash {
+
+}
+
+.wikifier-logobutton {
+	float:center;
+	cursor:pointer;
+}
+
+.wikifier-close-span {
+	float:left; 
+	font-size:9px;
+}
+
+#wikifier-title-definition {
+	font-size:11px;
+    font-weight:bold;
+	text-transform:none;
+	overflow:hidden;
+	white-space:nowrap;
+}
+
+#wikifier-viewwiki {
+	cursor:pointer;
+	font-family:arial;
+	font-size:11px;
+	text-decoration:underline;
+	color: #309c91;
+}
+
+
+body.wikifier-coloring-show font.wikifier-orange-node {color: #eca420;}
+body.wikifier-coloring-show font.wikifier-blue-node {color: #2b8bc1;}
+body.wikifier-coloring-show font.wikifier-turquoise-node {color: #38c0be;}
+body.wikifier-coloring-show font.wikifier-red-node {color: #e76f5f;}
+body.wikifier-coloring-show font.wikifier-yellow-node {color: #dcd134;}
+body.wikifier-coloring-show font.wikifier-pink-node {color: #d763a5;}
+body.wikifier-coloring-show font.wikifier-green-node {color: #58bb57;}
+body.wikifier-coloring-show font.wikifier-purple-node {color: #FF0080;}
+body.wikifier-coloring-show font.wikifier-gray-node {color: #d763a5;}

@@ -1,0 +1,76 @@
+/* menu & search css */
+
+#wikifier-fileselection-container {
+	font-family: arial;
+	font-size:12px;
+	text-align:left;
+	position:absolute;
+    width: 230px;
+    display: none;
+	left: 692px; 
+	top: 35px;
+    background-color: #fff;
+}
+
+#wikifier-infobox-container {
+	font-family: arial;
+	font-size:12px;
+	text-align:left;
+	position:absolute;
+    display: none;
+	left: 100px; 
+	top: 100px;
+    background-color: #fff;
+    z-index: 90;
+}
+
+.wikifier-container {
+    font-family: arial;
+    font-size:12px;
+    text-align:left;
+    position:absolute;
+    display: none;
+    background-color: #fff;
+}
+
+.wikifier-contents {
+    font-family: arial;
+    font-size:12px;
+    margin: 9px;
+    background-color: #eff8f4;
+}
+
+.wikifier-content {
+    font-family: arial;
+    font-size: 10px;
+    padding: 10px;
+    color: #3c514e;
+    border: solid 1px #aac4c2;
+}
+
+.wikifier-button-fileselection-middle {
+ 	font-family: arial;
+ 	color: #3c514e;
+    padding: 4px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-bottom: 0;
+    border-top: 0;
+    background-color: #eff8f4;
+    overflow:hidden;
+}
+.wikifier-button-fileselection-bottom {
+ 	font-family: arial;
+ 	color: #3c514e;
+    padding: 8px 0 0 8px;
+    border: solid 1px #aac4c2;
+    border-top: 0;
+    background-color: #eff8f4;
+	overflow:hidden;
+}
+
+#wikifier-fileselection-contents {
+	font-family: arial;
+    font-size:12px;
+	margin: 9px;
+    background-color: #eff8f4;
+}

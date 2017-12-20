@@ -1,0 +1,66 @@
+
+1: Conforti A, Chiamulera C, Moretti U, Colcera S, Fumagalli G, Leone R.
+Musculoskeletal adverse drug reactions: a review of literature and data from ADR 
+spontaneous reporting databases. Curr Drug Saf. 2007 Jan;2(1):47-63. Review.
+PubMed PMID: 18690950.
+
+2: Kasturi KS, Mummadi RR, Sood GK. Neutropenic enterocolitis: An unusual
+complication of HCV combination therapy with PEG-IFN and ribavirin. Eur J Intern 
+Med. 2008 Jul;19(5):372-3. Epub 2007 Nov 26. PubMed PMID: 18549944.
+
+3: LoVecchio F, Nourani C, Watts DJ, Wallance KL, Wax PM. Acute renal failure,
+neuropathy, and myopathy after ingestion of dipropylene glycol fog solution. Am J
+Emerg Med. 2008 Jun;26(5):635.e1-2. PubMed PMID: 18534313.
+
+4: Doboszyńska A, Rozek M, Swietlik E, Tomaszewska I. Heparin-induced
+thrombocytopenia in a patient with lung embolism and left-sided pneumonia: a case
+report. J Physiol Pharmacol. 2007 Nov;58 Suppl 5(Pt 1):135-9. PubMed PMID: 18204124.
+
+5: Hippisley-Cox J, Coupland C, Logan R. Risk of adverse gastrointestinal
+outcomes in patients taking cyclo-oxygenase-2 inhibitors or conventional
+non-steroidal anti-inflammatory drugs: population based nested case-control
+analysis. BMJ. 2005 Dec 3;331(7528):1310-6. PubMed PMID: 16322018; PubMed Central
+PMCID: PMC1298853.
+
+6: Abdalla SA, Cymerman U, Rushlow D, Chen N, Stoeber GP, Lemire EG, Letarte M.
+Novel mutations and polymorphisms in genes causing hereditary hemorrhagic
+telangiectasia. Hum Mutat. 2005 Mar;25(3):320-1. PubMed PMID: 15712271.
+
+7: Dial EJ, Dohrman AJ, Romero JJ, Lichtenberger LM. Recombinant human
+lactoferrin prevents NSAID-induced intestinal bleeding in rodents. J Pharm
+Pharmacol. 2005 Jan;57(1):93-9. PubMed PMID: 15651117.
+
+8: Takeuchi K, Tanaka A, Hayashi Y, Kubo Y. Functional mechanism underlying COX-2
+expression following administration of indomethacin in rat stomachs: importance
+of gastric hypermotility. Dig Dis Sci. 2004 Feb;49(2):180-7. PubMed PMID: 15104355.
+
+9: Fiorucci S, Antonelli E, Morelli A. Mechanism of non-steroidal
+anti-inflammatory drug-gastropathy. Dig Liver Dis. 2001 Dec;33 Suppl 2:S35-43.
+Review. PubMed PMID: 11827361.
+
+10: Lusher JM. Clinical guidelines for treating von Willebrand disease patients
+who are not candidates for DDAVP--a survey of European physicians. Haemophilia.
+1998;4 Suppl 3:11-4. PubMed PMID: 10028313.
+
+11: Yeh CC, Santella RM, Hsieh LL, Sung FC, Tang R. An intron 4 VNTR polymorphism 
+of the endothelial nitric oxide synthase gene is associated with early-onset
+colorectal cancer. Int J Cancer. 2009 Apr 1;124(7):1565-71. PubMed PMID: 19115208; PubMed Central PMCID: PMC2653782.
+
+12: Parmeggiani F, Gemmati D, Costagliola C, Sebastiani A, Incorvaia C. Predictive
+role of C677T MTHFR polymorphism in variable efficacy of photodynamic therapy for
+neovascular age-related macular degeneration. Pharmacogenomics. 2009
+Jan;10(1):81-95. Review. PubMed PMID: 19102718.
+
+13: Xiong XD, Qiu FE, Fang JH, Shen Y, Liang C, Jiang W, Zhuang SM. Association
+analysis between the Cdc6 G1321A polymorphism and the risk for non-Hodgkin
+lymphoma and hepatocellular carcinoma. Mutat Res. 2009 Mar 9;662(1-2):10-5. Epub 
+2008 Dec 3. PubMed PMID: 19101572.
+
+14: Ahmed F, Tessarollo L, Thiele C, Mocchetti I. Brain-derived neurotrophic
+factor modulates expression of chemokine receptors in the brain. Brain Res. 2008 
+Aug 28;1227:1-11. Epub 2008 Jun 13. PubMed PMID: 18588860; PubMed Central PMCID: 
+PMC2601566.
+
+15: Ahern GP, Wang X, Miyares RL. Polyamines are potent ligands for the capsaicin 
+receptor TRPV1. J Biol Chem. 2006 Mar 31;281(13):8991-5. Epub 2006 Jan 23. PubMed
+PMID: 16431906.

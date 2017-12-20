@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+    <head>
+        <title>Structured Digital Abstract</title>
+        <script language="JavaScript" src="main.js"></script>
+    </head>
+    <body>
+        <form id="text-form" method="post" action="sda2.py" >
+        <table align="center" width="600px">
+            <tr>
+            	<td colspan=1 align="left">
+                	<img src="images/emc.jpg" width="200px"/>
+            	</td>
+            	<td colspan=1 align="left">
+                	<img src="images/knewco.png" width="300px"/>
+            	</td>
+            </tr>
+            <tr><td colspan=2 align="center">
+                <img src="images/sda.png" width="500px"/>
+            </td></tr>
+            <tr><td colspan=2 align="center">
+                <textarea id="text-edit" style="width:800px; height:300px" name="text-edit" onMouseOut="validateInput();"></textarea>
+            </td></tr>
+            <tr><td colspan=1 align="left">
+                <input type="button" value="Retrieve from PubMed" onClick="askPubMedId();"/>
+                <input type="button" value="Retrieve from file" onClick="askFile();" disabled="true" />
+                <input type="button" value="Clear"/>
+            </td>
+            <td colspan=1 align="right">
+                <input type="submit" id="analyze-button" value="Annotate" disabled="true"/>
+            </td></tr>
+            <tr><td colspan=2 align="center">
+            	<br/>
+                <font size=-3>
+                (C) 2009, University Medical Center Rotterdam, Knewco Inc
+                </font>
+            </td></tr>
+            
+        </table>
+        </form>
+    </body>
+</html>
